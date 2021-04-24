@@ -10,7 +10,7 @@ In this project, we were provided the mock up for the marketing agency Horiseon'
 
 * Ensure the heading attributes are in proper sequence.
 
-To submit the assignment, we were required to provide the foolowing:
+To submit the assignment, we were required to provide the following:
 
 * URL of the deployed application
 
